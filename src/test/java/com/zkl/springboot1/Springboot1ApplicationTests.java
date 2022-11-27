@@ -12,6 +12,8 @@ class Springboot1ApplicationTests {
         System.out.println("您好2");
         System.out.println("您好3");
         System.out.println("您好4");
+        System.out.println("hot-fix-test");
+
     }
 
 }
