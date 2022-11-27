@@ -15,6 +15,7 @@ class Springboot1ApplicationTests {
         System.out.println("master-test1");
         System.out.println("hot-fix-test");
         System.out.println("push test");
+        System.out.println("push test1");
 
     }
 
