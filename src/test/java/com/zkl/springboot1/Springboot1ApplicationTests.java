@@ -9,6 +9,8 @@ class Springboot1ApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("您好");
+        System.out.println("您好2");
+        System.out.println("您好3");
     }
 
 }
