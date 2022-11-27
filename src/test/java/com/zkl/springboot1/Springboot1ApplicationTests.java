@@ -16,6 +16,7 @@ class Springboot1ApplicationTests {
         System.out.println("hot-fix-test");
         System.out.println("push test");
         System.out.println("push test1");
+        Failed to connect to github.com port 443 after 21072 ms: Timed out
 
     }
 
